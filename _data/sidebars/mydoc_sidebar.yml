@@ -9,9 +9,6 @@ entries:
       - title: ELIXIR Belgium
         url: /elixir_belgium.html
         output: web
-      - title: flanders
-        url: /flanders.html
-        output: web
   - title: Data Management Plan
     output: web
     folderitems:
