@@ -9,7 +9,7 @@ permalink: existing_data.html
 folder: mydoc
 ---
 
-## Bibliographic research. 
+## Bibliographic research sduyfbdhufb. 
 Start with a bibliographic research. If you find an interesting publication without any available data, you can contact the authors and request access to their data. If their data are not available or you didn’t find any interesting publication, you can look for existing data in many repositories. 
 
 ## Data repositories.
